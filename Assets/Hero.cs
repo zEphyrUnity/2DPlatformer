@@ -11,7 +11,7 @@ public class Hero : MonoBehaviour
     private sbyte _direction;
     private bool _dead, _onFloor;
 
-    private Rigidbody2D _rb;
+    private Rigidbody2D _rb; 
     private SpriteRenderer _sr;
     private Camera _mc;
     private Animator HeroAnimator;
